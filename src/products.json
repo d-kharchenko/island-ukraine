@@ -1,0 +1,10 @@
+		{
+			"name" : "1C Зарплата",
+			"price" : "10500",
+			"short-description" : "Програмний продукт “1С: Зарплата” призначена для автоматизації бізнес-процесів, як самостійних, так і входять до розподілену роздрібну мережу.",
+			"description" : "Програмний продукт “1С: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+			"image" : "img/1C-small-bussines.jpg",
+			"sale" : false,
+			"top-sale" : true,
+		}
+		
